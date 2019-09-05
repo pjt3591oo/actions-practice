@@ -1,0 +1,20 @@
+{
+  "name": "actions-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"run test\" && exit 0",
+    "build": "echo \"run build \" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjt3591oo/actions-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjt3591oo/actions-practice/issues"
+  },
+  "homepage": "https://github.com/pjt3591oo/actions-practice#readme"
+}
